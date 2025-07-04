@@ -19,5 +19,5 @@ Hi there! I'm a Third-year Computer Science (Data Science) engineering student p
 
 ### My GitHub Contributions Snake 🐍
 
-![github contribution grid snake](https://manu080405.github.io/Manu080405/github-snake.svg)
+![github contribution grid snake](https://manu080405.github.io/Manu080405/github-snake-dark.svg)
 
