@@ -8,14 +8,7 @@ Hey there! 👋 I'm a **Final-year Computer Science (Data Science) student** who
 ![](https://github-readme-stats.vercel.app/api?username=Manu080405&show_icons=true&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=Manu080405&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu080405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu080405&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manu080405&theme=github-dark-blue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu080405&layout=compact&theme=github_dark&count_private=true)
----
 [![](https://visitcount.itsvg.in/api?id=Manu080405&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
