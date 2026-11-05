@@ -35,7 +35,6 @@ My primary focus is **Backend Engineering, Python, FastAPI, and AI/ML Systems**,
 **Software Engineer Intern (AI/ML) — Bharat Tech Foundation**
 *Feb 2025 – Jun 2026 | Bangalore, Karnataka*
 
-- Led a 3-engineer LLM sub-team within an 8-member cross-functional team.
 - Developed a semantic reviewer-matching system using LLaMA 3.1 8B and FastAPI, reducing manual reviewer assignment time by approximately 70%.
 - Built a semantic plagiarism detection pipeline using embeddings and similarity search across 10,000+ research papers.
 - Contributed AI modules for reviewer matching, summarization, plagiarism detection, and format validation.
@@ -163,11 +162,11 @@ I'm open to opportunities, internships, and collaborations involving backend dev
 </p>
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manu080405&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu080405&theme=dark&hide_border=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
@@ -178,6 +177,7 @@ I'm open to opportunities, internships, and collaborations involving backend dev
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Manu080405&icon=0&color=0" alt="Profile Views" />
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
